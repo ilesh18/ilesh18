@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ilesh
 
-<!--
-**ilesh18/ilesh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems, not just projects.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Backend & APIs (Python)
+- AI / ML fundamentals
+- Building real products, not tutorials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- A personal AI assistant (Jarvis-style)
+- Core ML algorithms from scratch
+- Web apps with real users and data
+
+## Tech Stack
+- Python, SQL
+- HTML, CSS, JavaScript
+- React (learning)
+- Git & GitHub
+
+## Philosophy
+I care about depth, consistency, and execution.
+
+---
+
+> Still early. Still building.
+
+
