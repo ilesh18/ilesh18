@@ -1,5 +1,5 @@
 # Hey I am Ilesh !
-I'm a student of Artificial Intelligence and Machine Learning.<br>I'm working on my Jarvis my personal assistant.<br>Currently I am exploring things and adding to my tech stack,<br>I really like to code and it's my hobby and passion. <br>What I’m working on<br>A personal AI assistant (Jarvis-style)<br>Core ML algorithms from scratch<br>Web apps with real users and data
+I'm a student of Artificial Intelligence and Machine Learning.<br>Currently I am exploring things and adding to my tech stack. <br>What I’m working on<br>A personal AI assistant (Jarvis-style)<br>Core ML algorithms from scratch<br>Web apps with real users and data
 
 
 ## 🌐 Socials:
