@@ -11,6 +11,8 @@ I'm a student of Artificial Intelligence and Machine Learning.<br>Currently I am
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ilesh.08)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ilesh_08)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ilesh18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ilesh18&theme=dark&hide_border=false)<br/>
