@@ -16,7 +16,7 @@ I'm a student of Artificial Intelligence and Machine Learning.<br>Currently I am
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ilesh18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ilesh18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilesh18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ilesh18&theme=dark&layout=compact&cache_seconds=60&v=2)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilesh18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
