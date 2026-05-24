@@ -1,5 +1,5 @@
 # Hey I am Ilesh!
-I'm a student of Artificial Intelligence and Machine Learning.<br>Currently I am exploring things and adding to my tech stack. <br>What I’m working on<br>A personal AI assistant (Jarvis-style)<br>Core ML algorithms from scratch<br>Web apps with real users and data
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&pause=1000&color=B50F0F&background=000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Modern+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI;Always+Learning+New+Technologies;Open+to+Collaboration)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
